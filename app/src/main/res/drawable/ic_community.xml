@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Kepala kiri -->
+    <path
+        android:fillColor="#007bff"
+        android:fillType="evenOdd"
+        android:pathData="M3,5c0,-1.657 1.343,-3 3,-3s3,1.343 3,3 -1.343,3 -3,3 -3,-1.343 -3,-3zM6,4c-0.552,0 -1,0.448 -1,1s0.448,1 1,1 1,-0.448 1,-1 -0.448,-1 -1,-1z" />
+
+    <!-- Kepala kanan -->
+    <path
+        android:fillColor="#007bff"
+        android:fillType="evenOdd"
+        android:pathData="M15,5c0,-1.657 1.343,-3 3,-3s3,1.343 3,3 -1.343,3 -3,3 -3,-1.343 -3,-3zM18,4c-0.552,0 -1,0.448 -1,1s0.448,1 1,1 1,-0.448 1,-1 -0.448,-1 -1,-1z" />
+
+    <!-- Kepala tengah (besar) -->
+    <path
+        android:fillColor="#007bff"
+        android:fillType="evenOdd"
+        android:pathData="M8,12c0,-2.209 1.791,-4 4,-4s4,1.791 4,4 -1.791,4 -4,4 -4,-1.791 -4,-4zM12,10c-1.105,0 -2,0.895 -2,2s0.895,2 2,2 2,-0.895 2,-2 -0.895,-2 -2,-2z" />
+
+    <!-- Badan kiri -->
+    <path
+        android:fillColor="#007bff"
+        android:pathData="M1.2,11.3988C2.2933,9.9441 4.0364,9 6,9h1v2H6c-1.308,0 -2.4692,0.6266 -3.2007,1.6002l-0.6007,0.7995L0.6,12.1983 1.2,11.3988z" />
+
+    <!-- Badan kanan -->
+    <path
+        android:fillColor="#007bff"
+        android:pathData="M17,9h1c1.9634,0 3.7068,0.9443 4.7997,2.3994l0.6006,0.7996 -1.5991,1.2011 -0.6006,-0.7995C20.4691,11.6268 19.3078,11 18,11h-1V9z" />
+
+    <!-- Badan tengah -->
+    <path
+        android:fillColor="#007bff"
+        android:pathData="M5.4334,20.4279C6.8774,18.3578 9.2795,17 12,17s5.1226,1.3578 6.5666,3.4279l0.5721,0.8202 -1.6403,1.1442 -0.5721,-0.8202C15.8381,20.0152 14.037,19 12,19s-3.8381,1.0152 -4.9242,2.5721l-0.5721,0.8202 -1.6404,-1.1442 0.5721,-0.8202z" />
+</vector>
+
+
